@@ -6,21 +6,9 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  approach: []
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique: []
-  numberOfBytes: 72453888
-  numberOfFiles: 104
-  numberOfSubjects: 138
+  numberOfBytes: 0
+  numberOfFiles: 0
   schemaKey: AssetsSummary
-  species:
-  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_7227
-    name: Drosophila melanogaster - Fruit fly
-    schemaKey: SpeciesType
-  variableMeasured: []
 citation: Wu, Nathan (2024) Broken time reversal symmetry in motion detection (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001064/draft
 contributor:
